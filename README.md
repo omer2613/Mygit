@@ -1,0 +1,2 @@
+# Mygit
+github için repo
